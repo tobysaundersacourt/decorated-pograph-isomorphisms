@@ -125,6 +125,8 @@ There is also a sample notebook `visualization.nb` included for reference and qu
 - [ ] Make sure algorithms, data structures, and keyword (those affecting efficiency, such as inline, const, &) usage is optimal
 - [ ] Create detailed documentation for each overtly-user-facing function in the codebase
 - [ ] Implement the availability to read graphs from files, in a few different formats.
+- [ ] Find further applications within mathematics, physics, and computer science.
+- [ ] Write detailed insights into the algorithm's operation.
 
 # Contact
 
