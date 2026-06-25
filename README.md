@@ -127,6 +127,8 @@ There is also a sample notebook `visualization.nb` included for reference and qu
 - [ ] Implement the availability to read graphs from files, in a few different formats.
 - [ ] Find further applications within mathematics, physics, and computer science.
 - [ ] Write detailed insights into the algorithm's operation.
+- [ ] Clean up the codebase.
+- [ ] Change the Mathematica code to Python code.
 
 # Contact
 
